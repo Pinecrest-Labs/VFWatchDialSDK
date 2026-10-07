@@ -16,7 +16,7 @@ The SDK packages pre-compiled, optimized tool components to streamline asset bui
 
 ```text
 VFWatchDialSDK/
-├── bin/                             # Pre-compiled Application Binaries for Windows
+├── win32_bin/                       # Pre-compiled Application Binaries for Windows
 │   ├── compile_dial.zip             # Core local compiler executable
 │   └── json_schema_tool.zip         # Native manifest schema layout auditor
 ├── lib/                             # Cross-Platform Native Runtime Libraries

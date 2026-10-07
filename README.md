@@ -12,7 +12,7 @@ The SDK packages pre-compiled, optimized tool components to streamline asset bui
 * **JSON Schema Tool:** Local structural validator that enforces strict compliance with the IDO Watch Face framework property keys and calculates required x+1, y+1 compound component offsets.
 * **Native Runtime Libraries:** Cross-platform pre-compiled binaries (`.dll` for Windows environments and `.so` for Linux systems; Mach-O configurations for macOS environments to be added in a future release cycle) to handle automated asset quantization and raw stream packing.
 
-## SDK Directory Tree
+## SDK Directory Tree (Directory structure may vary)
 
 ```text
 VFWatchDialSDK/
